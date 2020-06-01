@@ -1,6 +1,7 @@
 # qr
 
 A new Flutter project.
+QR code scanner and generator using flutter and firebase.
 
 ## Getting Started
 
